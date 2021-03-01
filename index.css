@@ -1,0 +1,26 @@
+:root {
+    background-color: #000;
+}
+
+body {
+    margin: 20px;
+    padding: 20px;
+    background-color: #333;
+    color: #fff;
+    font-family: monospace;
+    font-size: 200%;
+}
+
+table {
+    width: 50%;
+}
+
+tr {
+    text-align: center;
+}
+
+th {
+    text-align: center;
+}
+
+td
