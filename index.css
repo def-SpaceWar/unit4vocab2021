@@ -7,7 +7,7 @@ body {
     padding: 20px;
     background-color: #333;
     color: #fff;
-    font-family: monospace;
+    font-family: "Consolas", "Courier N"
     font-size: 200%;
 }
 
@@ -23,4 +23,6 @@ th {
     text-align: center;
 }
 
-td
+td {
+    text-align: center;
+}
