@@ -300,3 +300,13 @@ form {
 #richards {
   font-size: 62%;
 }
+
+#dailyDoubleButton {
+  display: block;
+  background-color: rgb(0, 119, 255);
+  text-shadow: none;
+  padding: 10px;
+  text-align: center;
+  font-style: bold;
+  font-size: 150%;
+}
