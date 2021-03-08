@@ -28,7 +28,6 @@ setInterval(() => {
 let theActualJeapordy = [
     [ // Giver section
         {
-<<<<<<< HEAD
             "question": "A _____ is unweildy for transporting food and goods.",
             "answer": "What is promonotory", // 200
         },
@@ -42,21 +41,6 @@ let theActualJeapordy = [
         },
         {
             "question": "The elders ____ your entire life in order too decide your job.",
-=======
-            "question": "Jonas's entire community is built on a massive _____.",
-            "answer": "What is promonotory", // 200
-        },
-        {
-            "question": "There is no incriminating _____ after a release.",
-            "answer": "What is residue", // 400
-        },
-        {
-            "question": "The giver comunity _____ lies, in fact, only the reciever of memory can say the,",
-            "answer": "What is deplores", // 600
-        },
-        {
-            "question": "The elders _____ your entire life in order too decide your job",
->>>>>>> d21f9dcc4065d9b318ede2df6130417692c09fa0
             "answer": "What is peruse", // 800
         },
         {
@@ -66,7 +50,6 @@ let theActualJeapordy = [
     ],
     [ // Gimkit section
         {
-<<<<<<< HEAD
             "question": "A-Team is not very _____ in it's defenses, it is rare that someone manages to beat it in gimkit.",
             "answer": "What is porous", // 200
         },
@@ -84,35 +67,12 @@ let theActualJeapordy = [
         },
         {
             "question": "A-team is quite ____ even though everyone taunts them.",
-=======
-            "question": "Victory for other teams is quite _____. It often slips from their hands",
-            "answer": "What is porous", // 200
-        },
-        {
-            "question": "Gimkits keep us ______ going to school, otherwise we would be extremnely bored",
-            "answer": "What is sustained", // 400
-        },
-        {
-            "question": "We are never ____ when we win a gimkit, despite the fact that we have won them all",
-            "answer": "What is blase", // 600
-        },
-        {
-            "question": "A-Team is ____ to winning Gimkit",
-            "answer": "What is prone", // 800
-        },
-        {
-            "question": "A-Team is quite ____ when",
->>>>>>> d21f9dcc4065d9b318ede2df6130417692c09fa0
             "answer": "What is staid", // 1000
         },
     ],
     [ // Computer section
         {
-<<<<<<< HEAD
             "question": "You ________ me out when I was a crewmate. Even though green is the imposter though.",
-=======
-            "question": "You ________ me out when I was a crewmate. Even though Red was the imposter",
->>>>>>> d21f9dcc4065d9b318ede2df6130417692c09fa0
             "answer": "What is ousted", // 200
         },
         {
@@ -124,11 +84,7 @@ let theActualJeapordy = [
             "answer": "What is muster", // 600
         },
         {
-<<<<<<< HEAD
             "question": "There is noone _____ to when a pro hacker is hacking your computer.",
-=======
-            "question": "There is nothing to _____ to when a pro hacker is hacking your computer",
->>>>>>> d21f9dcc4065d9b318ede2df6130417692c09fa0
             "answer": "What is recourse", // 800
         },
         {
@@ -142,13 +98,8 @@ let theActualJeapordy = [
             "answer": "What is bolster", // 200
         },
         {
-<<<<<<< HEAD
             "question": "In school, some kids are a ______, while others are popular.",
             "answer": "what is nonentity", // 400
-=======
-            "question": "In school, some kids are ______, while others are popular",
-            "answer": "What is nonentity", // 400
->>>>>>> d21f9dcc4065d9b318ede2df6130417692c09fa0
         },
         {
             "question": "____ homework may be like god's gift to some student. To others, it may be disastrous.",
@@ -163,12 +114,6 @@ let theActualJeapordy = [
             "answer": "What is frivolous", // 1000 
         },
     ],
-    [ // RULES
-        {
-            "question": "RULES",
-            "answer": `Play individually or in groups.Pick a category and a point value. Click on the chosen box for the question. Students must give the answer in the form of a question before clicking again. The teacher may want to set a time limit for answering the question. To see if a Human or group is correct, click again for the answer. Click the “Back to Board” button on the slide to return to the main board. If the student or team is correct, they are awarded the point value of the question. (Click the “Score” button located on the main board to add the point value to the appropriate team score.) The dollar values disappear after each question. Continue until all questions have been answered. The team with the most points wins.`
-        },
-    ]
 ]
 
 /*I DID THE RULES   
