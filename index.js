@@ -5,8 +5,8 @@ let teamScores = [
 let addPoints = (team) => {
     teamScores[team - 1] += 100;
 
-    if (teamScores[team - 1] > 15000000000000000) {
-        teamScores[team - 1] = 15000000000000000n;
+    if (teamScores[team - 1] > 15000) {
+        teamScores[team - 1] = 15000;
     }
 }
 
